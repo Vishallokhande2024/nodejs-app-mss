@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "npm login --registry=http://54.234.68.131:8081/vishallokhande/repository/npm-NodeJS/"
+    "registry": "http://54.234.68.131:8081/vishallokhande/repository/npm-NodeJS/"
   },
   
   "scripts": {
